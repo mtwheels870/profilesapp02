@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 package-lock.json
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
